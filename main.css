@@ -9,3 +9,7 @@ div{
 section {
     display: flex;
 }
+
+#footer {
+    display: block;
+}
